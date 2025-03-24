@@ -1,0 +1,6 @@
+OrderID,CustomerID,Product,Category,Price,Quantity,OrderDate,Region
+1001,C001,Laptop,Electronics,800,2,2024-01-10,East
+1002,C002,Mouse,Accessories,25,3,2024-01-12,West
+1003,C003,Phone,Electronics,500,1,2024-02-15,South
+1004,C004,TV,Electronics,900,1,2024-02-20,North
+1005,C005,Headphones,Accessories,50,4,2024-03-05,East
